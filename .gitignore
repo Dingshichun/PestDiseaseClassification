@@ -1,0 +1,7 @@
+*.jpg
+*.png
+*.pth
+02_TrainModel/color_dataset/Test/
+02_TrainModel/color_dataset/TrainVal/
+*.vscode
+*__pycache__
