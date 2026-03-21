@@ -1,0 +1,16 @@
+pytorch==2.3.0
+torchvision==0.18.0
+numpy==1.26.4
+opencv-python==4.11.0.86
+python==3.11.9
+onnx==1.16.0
+Flask==2.0.2
+Flask_Cors==3.0.9
+matplotlib==3.8.4
+tensorrt==10.4.0
+Pillow
+json
+tqdm
+prettytable
+thop
+PIL
